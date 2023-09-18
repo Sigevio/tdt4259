@@ -4,7 +4,7 @@ import model as m
 import pandas as pd
 import seaborn as sns
 
-def draw(data, x, y, hue):
+def draw(data:pd.DataFrame, x:str, y:str, hue:str):
     sns.set_theme(style="darkgrid")
     plot = sns.lineplot(x=x, y=y, hue=hue, data=data)
     new_xticklabels = [item.get_text()[:10] for item in plot.get_xticklabels()]
