@@ -1,0 +1,9 @@
+pandas
+numpy
+prophet
+scikit-learn
+seaborn
+matplotlib
+holidays==0.24
+lightgbm
+skforecast

@@ -1,0 +1,59 @@
+{
+    "authenticated": false,
+    "timeTaken": 0,
+    "data": [
+      {
+        "date": "2023-01-01T00:00:00",
+        "description": "F\u00F8rste nytt\u00E5rsdag"
+      },
+      {
+        "date": "2023-04-02T00:00:00",
+        "description": "Palmes\u00F8ndag"
+      },
+      {
+        "date": "2023-04-06T00:00:00",
+        "description": "Skj\u00E6rtorsdag"
+      },
+      {
+        "date": "2023-04-07T00:00:00",
+        "description": "Langfredag"
+      },
+      {
+        "date": "2023-04-09T00:00:00",
+        "description": "F\u00F8rste p\u00E5skedag"
+      },
+      {
+        "date": "2023-04-10T00:00:00",
+        "description": "Andre p\u00E5skedag"
+      },
+      {
+        "date": "2023-05-01T00:00:00",
+        "description": "Offentlig h\u00F8ytidsdag"
+      },
+      {
+        "date": "2023-05-17T00:00:00",
+        "description": "Grunnlovsdag"
+      },
+      {
+        "date": "2023-05-18T00:00:00",
+        "description": "Kristi himmelfartsdag"
+      },
+      {
+        "date": "2023-05-28T00:00:00",
+        "description": "F\u00F8rste pinsedag"
+      },
+      {
+        "date": "2023-05-29T00:00:00",
+        "description": "Andre pinsedag"
+      },
+      {
+        "date": "2023-12-25T00:00:00",
+        "description": "F\u00F8rste juledag"
+      },
+      {
+        "date": "2023-12-26T00:00:00",
+        "description": "Andre juledag"
+      }
+    ],
+    "statusCode": 200
+  }
