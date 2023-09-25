@@ -1,0 +1,19 @@
+# CREATE NEW ENVIRONMENT: conda env create -f environment.yml
+# UPDATE EXISTING ENVIRONMENT: conda env update -f environment.yml --prune
+name: tdt4259
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11.5
+  - pip==23.2.1
+  - pandas==2.0.3
+  - numpy==1.25.2
+  - prophet==1.1.3
+  - scikit-learn==1.3.1
+  - seaborn==0.12.2
+  - matplotlib==3.8.0
+  - holidays==0.24
+  - lightgbm==4.0.0
+  - ipykernel==6.25.2
+  - pip:
+    - skforecast==0.10.0
